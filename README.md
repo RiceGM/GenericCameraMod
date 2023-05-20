@@ -25,4 +25,4 @@ a camera mod for gorilla tag with presets! (code bad dont look pls)
 7. CameraDistance: changes the distance of the camera from the player.
 8. CameraHeight: changes the height of the camera from the player.
 9. ShoulderOffsetX/Y/Z: changes the shoulder offset.
-10. CameraRotationX/Y/Z: changes the camera rotation (only works on 3rd person view)
+10. CameraRotationX/Y/Z: changes the camera rotation. (only works on 3rd person view)
