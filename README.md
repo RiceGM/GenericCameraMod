@@ -1,5 +1,5 @@
 # GenericCameraMod
-a camera mod for gorilla tag with presets!
+a camera mod for gorilla tag with presets! (code bad dont look pls)
 
 # INSTALL INSTRUCTIONS
 1. download the .dll
