@@ -29,3 +29,5 @@ use the arrow keys to switch between presets.
 10. CameraRotationX/Y/Z: changes the camera rotation. (only works on 3rd person view)
 11. ScaleCamera: fixes the scaling in the small maps (eg: basement).
 12. CameraRadius: changes how close the camera can get to objects.
+13. DampingX/Y/Z: changes how far the player can move away from the camera without it moving.
+14. LockInPlace: locks the camera in the position it is currently in.
