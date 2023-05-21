@@ -26,3 +26,5 @@ a camera mod for gorilla tag with presets! (code bad dont look pls)
 8. CameraHeight: changes the height of the camera from the player.
 9. ShoulderOffsetX/Y/Z: changes the shoulder offset.
 10. CameraRotationX/Y/Z: changes the camera rotation. (only works on 3rd person view)
+11. ScaleCamera: fixes the scaling in the small maps (eg: basement).
+12. CameraRadius: changes how close the camera can get to objects.
